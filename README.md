@@ -1,5 +1,4 @@
 # Math Quiz ⏳
-
 Math Quiz adalah aplikasi kuis matematika interaktif berbasis **Streamlit**.  
 Aplikasi ini menampilkan soal **penjumlahan dan pengurangan** secara acak dengan **batas waktu 25 detik per soal**.  
 Pengguna harus menjawab dengan benar dalam waktu yang diberikan untuk mendapatkan skor.
@@ -21,7 +20,7 @@ Pengguna harus menjawab dengan benar dalam waktu yang diberikan untuk mendapatka
    ```bash
    streamlit run math_quiz.py
   
-##📌 Teknologi yang Digunakan
+## 📌 Teknologi yang Digunakan
 1. 🐍 Python
 2. 🎨 Streamlit (untuk tampilan interaktif)
 3. 🎲 Random module (untuk membuat soal acak)
